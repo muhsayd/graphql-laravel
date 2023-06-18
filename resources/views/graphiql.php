@@ -28,10 +28,10 @@
       If you do not want to rely on a CDN, you can host these files locally or
       include them directly in your favored resource bunder.
     -->
-    <script src="//cdn.jsdelivr.net/es6-promise/4.0.5/es6-promise.auto.min.js"></script>
-    <script src="//cdn.jsdelivr.net/fetch/0.9.0/fetch.min.js"></script>
-    <script src="//cdn.jsdelivr.net/react/15.4.2/react.min.js"></script>
-    <script src="//cdn.jsdelivr.net/react/15.4.2/react-dom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/4.0.5/es6-promise.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/0.9.0/fetch.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.min.js"></script>
 
     <!--
       These two files can be found in the npm module, however you may wish to
